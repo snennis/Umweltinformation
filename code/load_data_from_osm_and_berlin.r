@@ -1,14 +1,51 @@
-library(tidyverse)
-library(sf)
-library(tmap)
-library(tmaptools)
-library(httr)      # APIs
-library(ows4R)     # WFS
-library(osmdata)
+############################################################
+# Skript: Geodaten für den Goethepark laden und speichern
+#
+# Beschreibung:
+# Dieses Skript lädt verschiedene Geodaten zum Goethepark in Berlin
+# und speichert sie als RDS-Dateien für die weitere Verarbeitung.
+#
+# Arbeitsschritte:
+# 1. Abruf der Berliner Grünanlagen über den WFS-Dienst der GDI Berlin
+# 2. Abruf einer OSM-Wiesenfläche innerhalb des Goetheparks !!(kann lange dauern)!!
+# 3. Abruf der Berliner Anlagenbäume über den WFS-Dienst der GDI Berlin
+#
+#
+# Ausgabe:
+# - data/gp_sf.rds       : Polygon der Goethepark-Fläche
+# - data/wiese_sf.rds    : OSM-Wiesenfläche im Goethepark
+# - data/baeume_sf.rds   : Anlagenbäume innerhalb des Goetheparks
+#
+# Koordinatensystem:
+# - EPSG:25833
+############################################################
 
-#### Geodaten laden ####
+#### Funktionen ####
 
-## WFS Fläche Goethepark ####
+# Funktionen laden und / oder herunterladen
+load_or_install <- function(package_name) {
+  if (!requireNamespace(package_name, quietly = TRUE)) {
+    message("Paket '", package_name, "' ist nicht installiert. Installation wird gestartet...")
+    install.packages(package_name)
+  }
+  
+  suppressPackageStartupMessages(
+    library(package_name, character.only = TRUE)
+  )
+  
+  message("Paket '", package_name, "' wurde geladen.")
+}
+
+#### 0. Pakete laden ####
+load_or_install('tidyverse')
+load_or_install('sf')
+load_or_install('tmap')
+load_or_install('tmaptools')
+load_or_install('httr') # APIs
+load_or_install('ows4R') #WFS
+load_or_install('osmdata')
+
+#### 1. GDI Berlin Abruf fuer Goethepark ####
 
 # Daten anfragen
 wfs_be_ga <- "https://gdi.berlin.de/services/wfs/gruenanlagen"
@@ -37,7 +74,7 @@ saveRDS(gp_sf, "data/gp_sf.rds") # RDS Objekt speichern
 
 
 
-## OSM Wiese ####
+#### 2. OSM Aufruf fuer Goethepark / Wiese im Goethepark ####
 
 # Daten abrufen
 gp_wiese_osm <- opq_osm_id(type = "way", id = 197884055) |> 
@@ -52,7 +89,8 @@ plot(gp_wiese)
 saveRDS(gp_wiese, "data/wiese_sf.rds") # RDS Objekt speichern
 
 
-## WFS Anlagenbäume (Goethepark) ####
+#### 3. Abruf der Anlagenbaeume im Goethepark via WFS ####
+
 wfs_baeume <- "https://gdi.berlin.de/services/wfs/baumbestand"
 baeume_client <- WFSClient$new(wfs_baeume, serviceVersion = "2.0.0")
 baeume_client$getFeatureTypes(pretty = TRUE)
