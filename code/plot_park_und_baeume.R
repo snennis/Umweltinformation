@@ -65,6 +65,7 @@ bbox_wiese <- st_bbox(wiese_sf)
 
 #### 2. Plot ####
 tmap_mode("view")
+tm_basemap("Esri.WorldImagery") +
 tm_shape(gp_sf, bbox =  bbox_wiese) +
   tm_polygons(fill_alpha = 0.2, lwd=2) +
   tm_shape(wiese_sf) +
