@@ -1,0 +1,166 @@
+﻿Datenerhebungsblatt Bäume
+
+Gruppe: Kleinholz GmbH
+Datum: 04.06.2026
+
+ID;Timestamp;Baumnr.;Himmels-richtung;Distanz (m);Winkel;Bodentemperatur (°C);Bodenfeuchtigkeit (%);Lufttemperatur (°C);Lichtverhältnisse;Anmerkungen
+KH_69_1;;69;N;0,5;-9;;;;;existiert nicht
+KH_69_2;;69;N;2,61;-9;;;;;existiert nicht
+KH_69_3;;69;N;5,55;-9;;;;;existiert nicht
+KH_69_4;;69;N;7,08;-9;;;;;existiert nicht
+KH_69_5;;69;O;0,5;80;;;;;existiert nicht
+KH_69_6;;69;O;2,92;80;;;;;existiert nicht
+KH_69_7;;69;O;4,85;80;;;;;existiert nicht
+KH_69_8;;69;O;7,16;80;;;;;existiert nicht
+KH_69_9;;69;S;0,5;183;;;;;existiert nicht
+KH_69_10;;69;S;0,53;183;;;;;existiert nicht
+KH_69_11;;69;S;4,53;183;;;;;existiert nicht
+KH_69_12;;69;S;7,14;183;;;;;existiert nicht
+KH_69_13;;69;W;0,5;261;;;;;existiert nicht
+KH_69_14;;69;W;2,56;261;;;;;existiert nicht
+KH_69_15;;69;W;6,71;261;;;;;existiert nicht
+KH_69_16;;69;W;7,14;261;;;;;existiert nicht
+KH_58_1;09:00;58;N;0,5;3;17,5;24,5;19;Schatten;
+KH_58_2;09:01;58;N;1,23;3;17,4;34;19;Schatten;
+KH_58_3;;58;N;7,2;3;;;;;auf Weg
+KH_58_4;;58;N;8,33;3;;;;;auf Weg
+KH_58_5;;58;O;0,5;105;16,9;23,9;19;Sonne;
+KH_58_6;;58;O;1,89;105;17,5;21,6;19;Sonne;
+KH_58_7;;58;O;4,46;105;17,7;27,9;19;Sonne;
+KH_58_8;;58;O;8,03;105;17,9;26,4;19;Sonne;
+KH_58_9;08:45;58;S;0,5;179;16,9;26;19;Schatten;
+KH_58_10;08:46;58;S;3,78;179;18,1;25,4;19;Sonne;
+KH_58_11;08:47;58;S;5,06;179;18,6;22;19;Sonne;
+KH_58_12;08:50;58;S;8,19;179;18,1;24,4;19;Sonne;
+KH_58_13;09:03;58;W;0,5;262;16,6;20,5;19;Schatten;
+KH_58_14;09:04;58;W;0,58;262;16,6;25;19;Schatten;
+KH_58_15;09:05;58;W;4,83;262;17,5;22,9;19;Schatten;
+KH_58_16;09:06;58;W;8,11;262;17,3;Boden zu fest;19;Schatten;fester Boden
+KH_49_1;11:15;49;N;0,5;0;16,8;28,2;22;Schatten;
+KH_49_2;11:16;49;N;1,88;0;16,7;26,1;22;Schatten;fester Boden
+KH_49_3;11:17;49;N;7,13;0;16,4;25,9;22;Schatten;
+KH_49_4;11:18;49;N;10,35;0;18,3;23,5;22;Sonne;fester Boden
+KH_49_5;11:19;49;O;0,5;83;16,8;23,2;22;Schatten;
+KH_49_6;11:19;49;O;0,5;83;16,8;23,2;22;Schatten;
+KH_49_7;;49;O;7,55;83;;;;;nicht messbar, zu stark bewachsen
+KH_49_8;;49;O;10,01;83;;;;;nicht messbar, zu stark bewachsen
+KH_49_9;11:22;49;S;0,5;167;17,1;26,8;22;Schatten;
+KH_49_10;11:23;49;S;4,18;167;18,4;22,3;22;Schatten;
+KH_49_11;11:24;49;S;9,71;167;18,1;27,8;22;Schatten;
+KH_49_12;11:25;49;S;10,13;167;17,8;25,8;22;Schatten;
+KH_49_13;;49;W;0,5;276;;;;;nicht messbar, Wurzeln
+KH_49_14;11:26;49;W;1,61;276;17,4;27,4;22;Schatten;
+KH_49_15;11:27;49;W;6,95;276;17,5;22,1;22;Schatten;
+KH_49_16;11:28;49;W;10,05;276;18;25,6;22;Schatten;
+KH_43_1;10:56;43;N;0,5;-7;15,9;24,3;21;Schatten;sehr weicher Boden/unter Bäumen
+KH_43_2;10:57;43;N;2,41;-7;15,6;14,4;21;Schatten;sehr weicher Boden/unter Bäumen
+KH_43_3;10:58;43;N;6,85;-7;16,5;26;21;Schatten;sehr weicher Boden/unter Bäumen
+KH_43_4;10:59;43;N;7,28;-7;16,8;30;21;Schatten;sehr weicher Boden/unter Bäumen
+KH_43_5;11:02;43;O;0,5;93;15,4;28,2;22;Schatten;unter Bäumen
+KH_43_6;11:03;43;O;1,09;93;15,8;26,9;22;Schatten;unter Bäumen
+KH_43_7;;43;O;6,88;93;;;;;nicht messbar, zu stark bewachsen
+KH_43_8;;43;O;7,33;93;;;;;nicht messbar, zu stark bewachsen
+KH_43_9;11:04;43;S;0,5;185;15,9;23,6;22;Schatten;lockerer Boden/unter Bäumen
+KH_43_10;11:05;43;S;1,23;185;15,1;26,2;22;Schatten;
+KH_43_11;11:06;43;S;5,08;185;16,1;47,5;22;Schatten;fester Boden/unter Bäumen
+KH_43_12;11:07;43;S;7,11;185;16,3;37,5;22;Schatten;fester Boden/unter Bäumen
+KH_43_13;11:08;43;W;0,5;260;15,6;25,6;22;Schatten;lockerer Boden/unter Bäumen
+KH_43_14;11:09;43;W;3,41;260;15,4;24,7;22;Schatten;
+KH_43_15;11:10;43;W;5,14;260;16,3;33;22;Schatten;
+KH_43_16;11:11;43;W;7,39;260;17;26,5;22;Schatten;
+KH_37_1;10:36;37;N;0,5;10;17,7;23,8;21;Schatten;
+KH_37_2;10:37;37;N;2,63;10;17;30,7;21;Schatten;fester Boden
+KH_37_3;10:38;37;N;6,88;10;17,2;25,5;21;Schatten;
+KH_37_4;10:39;37;N;7,04;10;17,2;26,8;21;Schatten;
+KH_37_5;10:40;37;O;0,5;79;17,2;24,8;21;Schatten;
+KH_37_6;10:41;37;O;1,95;79;17;28,6;21;Schatten;
+KH_37_7;Okt 42;37;O;5,78;79;16,9;36,5;21;Schatten;
+KH_37_8;10:43;37;O;7,03;79;17;37,2;21;Schatten;
+KH_37_9;10:44;37;S;0,5;191;17,4;27,6;21;Schatten;
+KH_37_10;10:45;37;S;2,81;191;17,1;31,4;21;Schatten;
+KH_37_11;10:46;37;S;4,48;191;16,8;24,8;21;Schatten;
+KH_37_12;10:47;37;S;7,26;191;16,8;29,9;21;Schatten;
+KH_37_13;10:49;37;W;0,5;279;17,6;27;21;Schatten;
+KH_37_14;10:50;37;W;1,26;279;17,1;29,1;21;Schatten;
+KH_37_15;10:51;37;W;5,95;279;17;28,4;21;Schatten;
+KH_37_16;10:52;37;W;7,09;279;16,7;;21;Schatten;
+KH_33_1;10:17;33;N;0,5;-6;17,6;25,5;21;Schatten;
+KH_33_2;10:18;33;N;2,16;-6;17,5;26,4;21;Schatten;
+KH_33_3;10:19;33;N;7,97;-6;16,4;26,4;21;Schatten;fester Boden
+KH_33_4;10:20;33;N;8,26;-6;16,4;24,3;21;Schatten;fester Boden
+KH_33_5;10:21;33;O;0,5;92;17,9;27,4;21;Schatten;
+KH_33_6;10:22;33;O;1,28;92;17,8;26,7;21;Schatten;
+KH_33_7;10:23;33;O;5,33;92;18,6;23,3;21;Schatten;fester Boden
+KH_33_8;;33;O;8,36;92;;;;;auf Weg
+KH_33_9;10:26;33;S;0,5;174;17,8;24,4;21;Sonne;
+KH_33_10;10,27;33;S;1,29;174;18,1;21,1;21;Sonne;
+KH_33_11;10:28;33;S;6,82;174;16,5;27,4;21;Sonne;
+KH_33_12;10:29;33;S;8,26;174;16,3;35,7;21;Sonne;
+KH_33_13;10:30;33;W;0,5;267;17,7;30,4;21;Schatten;
+KH_33_14;10:31;33;W;2,93;267;18;20,4;21;Schatten;
+KH_33_15;10:32;33;W;4,6;267;17,5;23,3;21;Sonne;
+KH_33_16;10:33;33;W;8,45;267;17,1;30,7;21;Sonne;
+KH_17_1;09:55;17;N;0,5;-15;14,9;32,7;21;Schatten;unter Bäumen
+KH_17_2;09:56;17;N;2,09;-15;15,4;34,9;21;Schatten;unter Bäumen
+KH_17_3;09:57;17;N;11,25;-15;16,6;36,8;21;Schatten;
+KH_17_4;09:58;17;N;12,4;-15;17,6;29,3;21;bewölkt;
+KH_17_5;;17;O;0,5;104;;;;;nicht messbar, Wurzeln 
+KH_17_6;10:01;17;O;0,96;104;15,4;28,5;21;Schatten;fester Boden, unter Bäumen
+KH_17_7;10:02;17;O;11,24;104;16,7;20,5;21;Schatten;Sandig, unter Bäumen
+KH_17_8;10:03;17;O;12,16;104;16,5;27,1;21;Schatten;Sandig, unter Bäumen
+KH_17_9;10:05;17;S;0,5;166;15,1;40,5;21;Schatten;unter Bäumen
+KH_17_10;10:06;17;S;0,99;166;15,4;38,3;21;Schatten;unter Bäumen
+KH_17_11;10:07;17;S;8,85;166;14,8;23,7;21;Schatten;unter Bäumen
+KH_17_12;;17;S;12,44;166;;;;;nicht messbar, zu stark bewachsen
+KH_17_13;10:10;17;W;0,5;258;14,9;38,7;21;Schatten;unter Bäumen
+KH_17_14;10:11;17;W;1,82;258;15,4;34,8;21;Schatten;unter Bäumen
+KH_17_15;10:12;17;W;6,62;258;15,9;29,9;21;Schatten;abschüssig/unter Bäumen
+KH_17_16;10:13;17;W;12,16;258;17;27,6;21;Schatten;
+KH_12_1;;12;N;0,5;-12;;;;;nicht messbar, zu stark bewachsen
+KH_12_2;;12;N;1,72;-12;;;;;nicht messbar, zu stark bewachsen
+KH_12_3;;12;N;4,09;-12;;;;;nicht messbar, zu stark bewachsen
+KH_12_4;;12;N;6,21;-12;;;;;nicht messbar, zu stark bewachsen
+KH_12_5;;12;O;0,5;91;;;;;nicht messbar, zu stark bewachsen
+KH_12_6;;12;O;2,87;91;;;;;nicht messbar, zu stark bewachsen
+KH_12_7;;12;O;4,28;91;;;;;nicht messbar, zu stark bewachsen
+KH_12_8;;12;O;6,21;91;;;;;nicht messbar, zu stark bewachsen
+KH_12_9;;12;S;0,5;180;;;;;nicht messbar, zu stark bewachsen
+KH_12_10;;12;S;1,99;180;;;;;nicht messbar, zu stark bewachsen
+KH_12_11;;12;S;5,43;180;;;;;nicht messbar, zu stark bewachsen
+KH_12_12;;12;S;6,36;180;;;;;nicht messbar, zu stark bewachsen
+KH_12_13;09:48;12;W;0,5;268;16,2;25,5;21;bewölkt;sehr bockerer Boden/unter Bäumen
+KH_12_14;09:49;12;W;1,49;268;15,3;20,2;21;bewölkt;sehr bockerer Boden/unter Bäumen
+KH_12_15;09:50;12;W;4,45;268;17,2;27,9;21;bewölkt;
+KH_12_16;09:51;12;W;6,46;268;17,2;39,4;21;bewölkt;
+KH_66_1;09:17;66;N;0,5;-2;15,1;28,4;19;Schatten;unter Bäumen
+KH_66_2;09:18;66;N;6,49;-2;15,3;34,9;19;Schatten;unter Bäumen
+KH_66_3;;66;N;12,25;-2;;;;;auf Weg
+KH_66_4;;66;N;13,12;-2;;;;;auf Weg
+KH_66_5;09:12;66;O;0,5;101;15,1;27,8;19;Schatten;lockerer Boden/unter Bäumen
+KH_66_6;09:14;66;O;0,56;101;15,1;34,2;19;Schatten;lockerer Boden/unter Bäumen
+KH_66_7;09:15;66;O;10,09;101;15,3;36,9;19;Schatten;lockerer Boden/unter Bäumen
+KH_66_8;09:16;66;O;13,48;101;15,8;30,5;19;Schatten;lockerer Boden/unter Bäumen
+KH_66_9;09:20;66;S;0,5;184;15;27,6;19;Schatten;lockerer Boden/unter Bäumen
+KH_66_10;09:21;66;S;4,55;184;15;32,8;19;Schatten;lockerer Boden/unter Bäumen
+KH_66_11;09:22;66;S;11,71;184;15,2;31,6;19;Schatten;unter Bäumen
+KH_66_12;09:23;66;S;13,13;184;15,1;31,3;19;Schatten;lockerer Boden/unter Bäumen
+KH_66_13;09:25;66;W;0,5;271;15,1;25,2;19;Schatten;lockerer Boden/unter Bäumen
+KH_66_14;09:26;66;W;0,97;271;15,2;32,2;19;Schatten;unter Bäumen
+KH_66_15;09:27;66;W;10,72;271;15,6;32,7;19;Schatten;unter Bäumen
+KH_66_16;09:28;66;W;13,25;271;16;40,8;19;Schatten;fester Boden/unter Bäumen
+KH_45_1;;45;N;0,5;-3;;0,8;;;nicht messbar, Steinboden
+KH_45_2;;45;N;0,61;-3;;;;;nicht messbar, Steinboden
+KH_45_3;;45;N;6,87;-3;;;;;nicht messbar, Steinboden
+KH_45_4;;45;N;12,19;-3;;;;;nicht messbar, Steinboden
+KH_45_5;;45;O;0,5;88;;;;;nicht messbar, Steinboden
+KH_45_6;;45;O;1,63;88;;;;;nicht messbar, Steinboden
+KH_45_7;;45;O;6,66;88;;;;;nicht messbar, Steinboden
+KH_45_8;;45;O;12,04;88;;;;;nicht messbar, Steinboden
+KH_45_9;;45;S;0,5;186;;;;;nicht messbar, Steinboden
+KH_45_10;;45;S;5,3;186;;;;;nicht messbar, Steinboden
+KH_45_11;;45;S;10,14;186;;;;;nicht messbar, Steinboden
+KH_45_12;;45;S;12,06;186;;;;;nicht messbar, Steinboden
+KH_45_13;;45;W;0,5;261;;;;;nicht messbar, Steinboden
+KH_45_14;;45;W;5,84;261;;;;;nicht messbar, Steinboden
+KH_45_15;;45;W;9,47;261;;;;;nicht messbar, Steinboden
+KH_45_16;;45;W;12,07;261;;;;;nicht messbar, Steinboden

@@ -1,0 +1,71 @@
+Datenerhebungsblatt Wiese
+
+Gruppe: Kleinholz GmbH
+Mitglieder: Dennis Davidsohn, Katharina Haagen, Lara Schneider, Niklas Stein, Henrik Wolgast
+Ort: Goethepark (Volkspark Rehberge)
+Verwendete Geräte: Moisture Meter: T25A0676, Temp: EN13485
+
+Datum: 28.05.2026
+Startzeit: 09:05
+Endzeit: 11:16
+Witterungsverhältnisse:
+Temperatur (°C): 14
+Bewölkung: klar
+Niederschlag: keiner
+Wind: leicht
+
+ID;Timestamp;Lon;Lat;Bodenfeuchte (%);Bodentemperatur (°C);Art Untergrund;Lufttemperatur (°C);Lichtverhältnisse;Anmerkungen
+KH1;09:28;13,3385;52,5462;24,7;16,8;Wiese;16;sonnig;
+KH2;09:30;13,3386;52,546;34,7;14,2;Wiese;16;sonnig;lockerer Boden
+KH3;09:32;13,3383;52,5459;27,1;15;Wiese;16;Schatten;lockerer Boden, Rodelbahn
+KH4;09:10;13,3388;52,5466;26,3;17;trockene Wiese;16;sonnig;
+KH5;09:24;13,3389;52,5462;26,3;16;Wiese;16;sonnig;
+KH6;09:37;13,3386;52,5463;28,2;18,5;trockene Wiese;16;sonnig;
+KH7;09:38;13,3388;52,5466;27,2;18;Wiese;16;sonnig;fester Boden
+KH8;09:25;13,339;52,5461;29,1;15,4;Wiese;16;Schatten;
+KH9;09:41;13,3392;52,5464;23;17,3;trockene Wiese;17;Schatten;harter Boden
+KH10;09:43;13,339;52,5459;30,9;15;Wiese;17;sonnig;zwischen Bäumen
+KH11;09:45;13,3392;52,5464;32,3;16,8;Wiese;17;Schatten;weicher Boden
+KH12;09:49;13,3381;52,5457;37,2;15,2;Wiese;17;Schatten;Rodelbahn
+KH13;09:52;13,339;52,546;37,3;15,5;Wiese;17;Schatten;fester Boden, Wurzeln
+KH14;09:07;13,3385;52,5462;21;16,5;Wiese;16;sonnig;
+KH15;09:55;13,339;52,5466;22,4;16,3;Wiese;17;sonnig;fester Boden
+KH16;11:00;13,3374;52,5461;30,7;14;Waldboden;17;Schatten;unter Bäumen
+KH17;11:03;13,3375;52,5461;20;13,7;Wiese sehr weich;17;Schatten;unter Bäumen
+KH18;10:03;13,338;52,5465;33,4;16,5;Wiese;17;sonnig;
+KH19;10:00;13,3387;52,5464;25,1;18,3;trockene Wiese;17;sonnig;
+KH20;10:09;13,3382;52,5462;23,4;17,5;Wiese;17;sonnig;
+KH21;09:57;13,3388;52,546;25,1;15,9;Wiese;17;Schatten;
+KH22;10:06;13,3382;52,5458;30,4;13,2;Wiese;17;Schatten;
+KH23;10:16;13,3381;52,5463;27,8;18,6;Wiese;17;sonnig;seitlich an Bodenwelle (steil)
+KH24;11:14;13,3381;52,5461;38;18,4;Wiese;17;sonnig;leichtes Gefälle (Süden)
+KH25;10:15;13,338;52,5462;26;19,4;Wiese;17;sonnig;auf Bodenwelle
+KH26;11:12;13,338;52,5461;31,6;18,1;Wiese;17;sonnig;seitlich an Bodenwelle (steil)
+KH27;10:29;13,338;52,5459;31,3;14,7;Wiese;17;sonnig;Punkt verschoben durch Busch
+KH28;10:39;13,339;52,5459;35,1;14,4;Wiese;17;;Bodenwelle Süden
+KH29;10:23;13,3384;52,5466;33,8;18,8;Wiese;17;sonnig;
+KH30;10:57;13,3373;52,5462;38,6;13,8;Wiese;17;Schatten;Punkt verschoben durch Busch
+KH31;10:24;13,3384;52,5466;33,2;19;Wiese;17;sonnig;
+KH32;10:35;13,339;52,546;33;15,5;Wiese;17;sonnig;
+KH33;10:21;13,3385;52,5464;26,2;19,4;Wiese;17;sonnig;
+KH34;10:11;13,3382;52,5464;29,4;18,3;Wiese;17;sonnig;
+KH35;09:16;13,3384;52,5464;27,8;16,8;Wiese;16;sonnig;
+KH36;10:52;13,3388;52,5463;30,5;19,5;trockene Wiese;17;sonnig;
+KH37;10:31;13,3384;52,5459;33,6;13,6;unter Baum;17;Schatten;Boden sehr weich, unter Baum
+KH38;10:33;13,3385;52,546;32,6;15;weiche Wiese;17;Schatten;
+KH39;10:37;13,3391;52,546;28,2;16;Wiese;17;Schatten;Bodenwelle Süden
+KH40;10:19;13,338;52,5463;28,7;17,7;Wiese;17;sonnig;seitlich an Bodenwelle (flach)
+KH41;10:45;13,3388;52,5464;33,7;19,4;trockene Wiese;17;sonnig;sehr trocken
+KH42;10:41;13,3388;52,5459;33,8;14,7;Wiese;17;Schatten;
+KH43;11:05;13,3376;52,5463;34,9;15,3;unter Bäumen;17;Schatten;
+KH44;11:08;13,3376;52,5461;29,5;14,2;Wiese;17;sonnig;
+KH45;11:46;13,3388;52,5464;33,8;19,5;trockene Wiese;17;sonnig;sehr trochen
+KH46;09:05;13,3387;52,5465;27,4;17;Wiese;16;sonnig;
+KH47;10:54;13,339;52,5466;26,8;17,3;Wiese;17;sonnig;
+KH48;10:49;13,3387;52,5462;29,5;19,6;trockene Wiese;17;sonnig;
+KH49;10:59;13,3373;52,5462;38,7;13,3;Wiese;17;Schatten;Punkt verschoben durch Busch
+KH50;11:09;13,3378;52,5462;20,5;20,4;Sand;17;sonnig;Sand vom Loch
+KH51;10:48;13,3387;52,5463;28;20,1;Wiese;17;sonnig;
+KH52;10:14;13,3382;52,5461;36,4;17;Wiese;17;sonnig;
+KH53;11:04;13,3375;52,5462;39,4;14;Wiese;17;sonnig;
+KH54;10:42;13,3388;52,5459;30,7;14;Wiese;17;Schatten;
